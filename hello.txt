@@ -4,3 +4,6 @@ We are learning Git and its basic commands.
 
 2. Git status -- to check status of repository.
 
+3. Git add <file name> -- This is step where we add our file/files to staging area.
+
+4. Git commit -- using this command we commit all the files which added in staging area to be commit.
