@@ -7,3 +7,17 @@ We are learning Git and its basic commands.
 3. Git add <file name> -- This is step where we add our file/files to staging area.
 
 4. Git commit -m "commit message" -- using this command we commit all the files which added in staging area to be commit.
+
+5. git branch -M main -- to change the name of local repo branch
+
+6. git remote add origin <remote repo url> -- connecting local repo with remote repo
+
+7. git remote -v -- to verify connection is successful 
+
+8. git push -u origin main -- to first time push code to remote repo main branch after this only git push work
+
+This all steps done for first time code push. for updation in code after push follow below steps:
+
+a) git add .
+b) git commit -m "comment"
+c) git push
