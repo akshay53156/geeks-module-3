@@ -1,0 +1,6 @@
+We are learning Git and its basic commands.
+
+1. Git init -- to initialize the local repository.
+
+2. Git status -- to check status of repository.
+
